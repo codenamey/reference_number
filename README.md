@@ -5,6 +5,13 @@ Created by react to make bank reference numbers generated internationally and fi
 
 Pankkien viitenumero generaattori kansainvälisille ja suomalaisille viitenumeroille. 
 
+## Setup / Installation should go straightforward as below 
+git clone https://github.com/codenamey/reference_number
+cd reference_number 
+yarn install 
+yarn start 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
