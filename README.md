@@ -1,9 +1,13 @@
 
-# reference_number calculator 
+# Reference Number calculator 
 
 Created by react to make bank reference numbers generated internationally and finnish banks. 
 
 Pankkien viitenumero generaattori kansainvälisille ja suomalaisille viitenumeroille. 
+
+## DEMO : 
+http://tools.1702.fi/rnc/
+
 
 ## Setup / Installation should go straightforward as below 
 git clone https://github.com/codenamey/reference_number
