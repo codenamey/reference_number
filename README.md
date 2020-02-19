@@ -11,10 +11,10 @@ http://tools.1702.fi/rnc/
 
 
 ## Setup / Installation should go straightforward as below 
-git clone https://github.com/codenamey/reference_number
-cd reference_number 
-yarn install 
-yarn start 
+git clone https://github.com/codenamey/reference_number<br />
+cd reference_number <br />
+yarn install <br />
+yarn start <br />
 
 
 ## Available Scripts
