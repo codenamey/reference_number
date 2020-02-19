@@ -1,6 +1,12 @@
 {
   "name": "reference_number",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "license": "MIT",
+    "author": {
+      "name": "Lennart Takanen",
+      "email": "lennart@takanen.eu",
+      "url": "https://takanen.eu"
+    },
   "private": true,
   "dependencies": {
     "@codenamex/reference_number": "^1.0.4",
